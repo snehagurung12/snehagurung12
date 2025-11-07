@@ -71,7 +71,7 @@ My focus lies in designing **scalable, data-driven architectures** that integrat
 
 ### 🤝 Connect With Me
 
-🌐 [LinkedIn](https://linkedin.com/in/SnehaGurung)  
+🌐 [LinkedIn](https://linkedin.com/in/snehagurungsg001)  
 📧 **snehagurung7354@gmail.com**  
 💼 [GitHub Portfolio](https://github.com/snehagurungsg001)  
 
