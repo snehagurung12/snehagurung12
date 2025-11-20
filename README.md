@@ -22,14 +22,6 @@ My focus lies in designing **scalable, data-driven architectures** that integrat
 - 🌐 **Completed:**  
   **Social Connect Web App** – a basic interactive platform built to explore frontend and backend integration principles.
 
-- ⚙️ **Currently Working On:**  
-  Converting the entire **Supply Chain project into a fully deployed Azure environment**, leveraging:
-  - **Azure Data Factory** (ETL Orchestration)  
-  - **Azure Blob Storage** (Data Lake)  
-  - **Azure Synapse Analytics** (Data Warehouse)  
-  - **Power BI Service** (Dashboard Integration)  
-  - **Azure ML Studio** (Model Deployment & Forecasting)
-
 ---
 
 ### 🧠 What I’m Learning
