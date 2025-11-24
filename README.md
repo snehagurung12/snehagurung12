@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m **Sneha Gurung**
 
-🎓 **BSc. CSIT Student** | ☁️ **Aspiring Azure / Cloud Architect** | 📊 **Data-Driven Problem Solver**
+BSc. CSIT Student** | ☁️ **Aspiring Azure / Cloud Architect** | 📊 **Data-Driven Problem Solver**
 
 ---
 
