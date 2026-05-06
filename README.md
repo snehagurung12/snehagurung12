@@ -1,14 +1,17 @@
 # 👋 Hey there, I’m **Sneha Gurung**
 
-BSc. CSIT Student | ☁️ **Aspiring Azure / Cloud Architect** | 📊 **Data-Driven Problem Solver**
+BSc. CSIT Student | ☁️ **Aspiring Data Analyst** | 📊 **Data-Driven Problem Solver**
 
 ---
 
 ### 🚀 About Me  
-I’m a passionate learner currently building my career path toward becoming a **Microsoft Azure Solution Architect** and **Cloud Infrastructure Specialist**.  
-My focus lies in designing **scalable, data-driven architectures** that integrate **machine learning**, **ETL pipelines**, and **Power BI** for real-time insights.
+Hi! I’m Sneha Gurung — a Data Analyst with a strong interest in building data-driven and scalable solutions.
 
-💡 I believe in *learning by building* — turning concepts into working cloud projects that demonstrate real-world impact.
+I recently completed my Data Analyst internship, where I worked on cleaning, analyzing, and visualizing data using Power BI, SQL, and Excel. Through this experience, I developed a practical understanding of working with datasets, building dashboards, and turning data into meaningful insights.
+
+
+
+💡 I believe in *learning by building* — turning concepts into working  projects that demonstrate real-world impact.
 
 ---
 
