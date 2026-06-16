@@ -50,8 +50,8 @@ Full supply chain analytics system with ML-powered delay prediction.
 | Languages | Python · SQL |
 | Libraries | Pandas · NumPy · Scikit-Learn · Matplotlib |
 | Databases | PostgreSQL |
-| Visualisation | Power BI · DAX |
 | Pipeline | ETL · Google Colab · GitHub |
+| Visualisation | Power BI · DAX · Tableau (learning) |
 | Cloud Interest | Azure Data Factory · Blob Storage · Synapse Analytics |
 
 ---
