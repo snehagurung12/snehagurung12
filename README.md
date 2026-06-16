@@ -1,80 +1,35 @@
-# 👋 Hey there, I’m **Sneha Gurung**
+# Sneha Gurung
 
-BSc. CSIT Student | ☁️ **Aspiring Data Analyst** | 📊 **Data-Driven Problem Solver**
-
----
-
-### 🚀 About Me  
-Hi! I’m Sneha Gurung — a Data Analyst with a strong interest in building data-driven and scalable solutions.
-
-I recently completed my Data Analyst internship, where I worked on cleaning, analyzing, and visualizing data using Power BI, SQL, and Excel. Through this experience, I developed a practical understanding of working with datasets, building dashboards, and turning data into meaningful insights.
-
-
-
-💡 I believe in *learning by building* — turning concepts into working  projects that demonstrate real-world impact.
+Data Analyst · SQL · Python · Power BI · PostgreSQL
 
 ---
 
-### 💼 Current Journey
+### About Me
 
-- ✅ **Completed Project:**  
-  **Supply Chain Visibility & Predictive Analysis**  
-  Simulated an **Azure-inspired architecture** using free tools such as **GitHub (Blob Simulation)**, **Google Colab (ETL + ML)**, and **Power BI (Dashboard & KPIs)**.  
-  Developed full data pipeline — from ingestion, cleaning, and predictive modeling to Power BI visualization.
+I build end-to-end analytics pipelines that turn raw operational data into actionable insights. My work covers data cleaning, SQL querying, Python ETL, DAX measures, and interactive Power BI dashboards.
 
-- 🌐 **Completed:**  
-  **Social Connect Web App** – a basic interactive platform built to explore frontend and backend integration principles.
+Currently exploring cloud data infrastructure — understanding how analytics pipelines scale using Azure-equivalent architectures.
 
 ---
 
-### 🧠 What I’m Learning
-- Azure Architecture Design  
-- Cloud Infrastructure & Resource Management  
-- Data Engineering (ETL / ELT concepts)  
-- Machine Learning Model Deployment on Azure  
-- CI/CD using GitHub Actions  
+### Projects
+
+**[Operational Bottleneck & Root Cause Analysis](https://github.com/snehagurung12/Operational-Bottleneck-Root-Cause-Analysis)**
+End-to-end analytics pipeline across 1,500 workflow events · PostgreSQL · Python · Power BI · 4-page dashboard identifying bottlenecks, SLA breaches, and root causes
+
+**[Supply Chain Visibility & Predictive Analysis](https://github.com/snehagurung12/Supply-chain-visibility)**
+Supply chain analytics with delay prediction · Python · Scikit-Learn · Power BI · 5-page dashboard with ML-powered forecasting
 
 ---
 
-### 🧰 Tools & Technologies
+### Tools
 
-| Cloud & Data | Machine Learning | Visualization | Development |
-|---------------|------------------|----------------|--------------|
-| Azure Portal ☁️ | Python 🐍 | Power BI 📊 | HTML, CSS, JS 💻 |
-| Data Factory 🔄 | Scikit-Learn 🤖 | Google Colab 🧮 | GitHub 🧭 |
-| Synapse Analytics 🧱 | Pandas / NumPy 📈 | Excel 📗 | VS Code ⚙️ |
+| Analytics | Languages | Visualisation | Pipeline |
+|---|---|---|---|
+| SQL · PostgreSQL | Python · Pandas | Power BI · DAX | ETL · GitHub |
 
 ---
 
-### 🌟 Key Projects
+### Connect
 
-- **[Supply Chain Visibility & Predictive Analysis](https://github.com/snehagurung12/Supply-chain-visibility)**  
-  _Data pipeline + predictive analytics + Power BI dashboard._  
-  Simulated Azure workflow demonstrating visibility, delay prediction, and inventory insights.
-
-- **[Social Connect](#)**  
-  _A simple full-stack website project exploring user interaction and data storage._
-
----
-
-### 🧩 Goals
-- 🏗️ Migrate all simulated systems into live **Azure Cloud Architecture**  
-- 🎯 Achieve **Microsoft Certified: Azure Solutions Architect Expert**  
-- 📚 Build a portfolio of **end-to-end cloud projects**
-
----
-
-### 🤝 Connect With Me
-
-🌐 [LinkedIn](https://linkedin.com/in/snehagurungsg001)  
-📧 **snehagurung7354@gmail.com**  
-💼 [GitHub Portfolio](https://github.com/snehagurungsg001)  
-
----
-
-> *"Architecture is not about technology — it’s about designing intelligent systems that scale with purpose."*  
-
----
-
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehagurung12&layout=compact&theme=radical)
+[LinkedIn](https://linkedin.com/in/snehagurungsg001) · snehagurung7354@gmail.com
